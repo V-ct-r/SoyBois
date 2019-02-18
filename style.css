@@ -210,4 +210,8 @@ p{
 
   #showcase .bg-image{
     height: auto;
+  }
+
+  #showcase{
+    min-height: 900px;
 }
