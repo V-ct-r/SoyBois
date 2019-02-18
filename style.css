@@ -203,15 +203,15 @@ p{
 
 }
 
-@media screen and (min-resolution: 220dpi) {
+@media (min-resolution: 192dpi) {
   #showcase li {
     display: block;
   }
 
   #showcase .bg-image{
-    height: auto;
+    height: 800px;
   }
 
   #showcase{
-    min-height: 900px;
+    min-height: 800px;
 }
