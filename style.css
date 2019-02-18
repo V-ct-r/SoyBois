@@ -205,7 +205,7 @@ p{
 
 @media (min-resolution: 192dpi) {
   #showcase li {
-    display: block;
+    display: inline;
   }
 
   #showcase .bg-image{
