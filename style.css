@@ -202,3 +202,9 @@ p{
 }
 
 }
+
+@media screen and (min-resolution: 220dpi) {
+  #showcase li {
+    display: block;
+  }
+}
