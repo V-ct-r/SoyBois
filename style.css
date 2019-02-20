@@ -209,6 +209,7 @@ p{
 
 }
 
+/*
 @media (min-resolution: 192dpi) {
   #showcase li {
     display: inline;
@@ -221,3 +222,4 @@ p{
   #showcase{
     min-height: 800px;
 }
+*/
